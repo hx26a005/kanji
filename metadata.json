@@ -1,0 +1,6 @@
+{
+  "name": "漢字四択クイズ",
+  "description": "習得レベルに合わせた漢字の四択問題を出題し、間違えた漢字を復習リストに自動保存してAI先生が解説する学習ゲーム",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
